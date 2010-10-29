@@ -24,35 +24,3 @@ public class Person {
 		}
 	}
 }
-
-class Employee extends Person {
-	public Employee(String name) {
-		super(name);
-	}
-	
-	@Override
-	public String toString() {
-		return "Employee " + super.toString();
-	}
-	
-	@Override
-	public void whoAmI() {
-		System.out.println("I work in the office");
-	}
-}
-
-class Worker extends Person {
-	public Worker(String name) {
-		super(name);
-	}
-	
-	@Override
-	public String toString() {
-		return "Worker " + super.toString();
-	}
-	
-	@Override
-	public void whoAmI() {
-		System.out.println("I work in the factory");
-	}
-}
