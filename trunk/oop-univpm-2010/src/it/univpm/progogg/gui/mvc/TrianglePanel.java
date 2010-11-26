@@ -30,7 +30,6 @@ public class TrianglePanel extends JPanel implements Observer {
 		add(hypothenuse);
 		
 		model.addObserver(this);
-		new TriangleController(model, this);
 		update(model, null);
 	}
 	

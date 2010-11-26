@@ -31,7 +31,7 @@ public class DirIterator implements Iterator<File> {
 		File result = listFiles.pollFirst();
 		if (result == null)
 			throw new NoSuchElementException();
-		if (result.isDirectory())
+		//if (result.isDirectory())
 			for (File f : result.listFiles())
 				listFiles.add(f);
 		return result;
