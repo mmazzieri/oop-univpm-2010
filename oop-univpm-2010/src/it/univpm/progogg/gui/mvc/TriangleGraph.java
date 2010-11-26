@@ -40,10 +40,9 @@ public class TriangleGraph extends JPanel implements Observer {
 				(getHeight() - 2 * BORDER) / height);
 		int baseX = BORDER + (int) Math.round(base * ratio);
 		int baseY = BORDER + (int) Math.round(height * ratio);
-		int top = BORDER + (int) Math.round(base * ratio / 2);
 		g.drawLine(BORDER, baseY, baseX, baseY);
-		g.drawLine(top, BORDER, BORDER, baseY);
-		g.drawLine(top, BORDER, baseX, baseY);
+		g.drawLine(baseX, BORDER, baseX, baseY);
+		g.drawLine(BORDER, baseY, baseX, BORDER);
 	}
 
 }

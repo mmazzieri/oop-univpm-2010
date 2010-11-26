@@ -13,6 +13,7 @@ public class TriangleApplication extends JFrame {
 	public TriangleApplication() {
 		RightTriangle model = new RightTriangle(3, 4);
 		TrianglePanel textView = new TrianglePanel(model);
+		TriangleController controller = new TriangleController(model, textView);
 		TriangleGraph graphicView = new TriangleGraph(model);
 		try {
 			new TriangleLogger(model);
