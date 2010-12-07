@@ -1,9 +1,5 @@
 package it.univpm.progogg;
 
-interface Doer {
-	public void doSomething();
-}
-
 public class MakeDoer {
 	class NullDoer implements Doer {
 		@Override

@@ -13,13 +13,21 @@ import it.univpm.progogg.Person;
  */
 public class Couple<T> {
 
-	T first;
+	protected T first;
 	
-	T second;
+	protected T second;
 	
 	public Couple(T first, T second) {
 		this.first = first;
 		this.second = second;
+	}
+	
+	public T first() {
+		return first;
+	}
+	
+	public T second() {
+		return second;
 	}
 	
 	@Override
