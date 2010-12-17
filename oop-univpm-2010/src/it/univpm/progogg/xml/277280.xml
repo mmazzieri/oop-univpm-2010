@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<newsitem date="1996-08-20" id="root" itemid="277280" xml:lang="it">
+<title></title>
+<headline> DOLLARO NEW YORK CHIUDE DEBOLE ATTESA FOMC E BUBA. </headline>
+<byline></byline>
+<dateline></dateline>
+<text>
+<p> NEW YORK, 20 Agosto (Reuter) - Il dollaro ieri ha chiuso leggermente debole contro marco in attesa delle riunioni della Federal Reserve oggi (le aspettative piu diffuse sono per tassi invariati) e della Bundesbank giovedi (le attese di un eventuale taglio del tasso del p/t da 3,3 pct attuale sono piu incerte). </p>
+<p> Il dollaro ha chiuso a 1,4867/77 marchi, appena sotto 1,4887/92 in apertura, e a 107,77/84 yen da 107,88/98. </p>
+<p> (c) Reuters Limited 1996. </p></text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+<code code="NAMZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="USA">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="USAZ">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="USW">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code></codes>
+<codes class="bip:topics:1.0">
+<code code="M13">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="M132">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code>
+<code code="MCAT">
+<editdetail action="confirmed" attribution="Reuters BIP Coding Group" date="1996-08-20"></editdetail></code></codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"></dc>
+<dc element="dc.datepublished" value="1996-08-20"></dc>
+<dc element="dc.source" value="Reuters - Notizie in Italiano"></dc>
+<dc element="dc.creator.location" value=""></dc>
+<dc element="dc.creator.location.country.name" value=""></dc></metadata></newsitem>
